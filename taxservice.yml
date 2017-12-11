@@ -1,0 +1,10 @@
+internal:
+   tax:
+     service:
+       enabled: true
+external:
+   tax:
+     service:
+       enabled: false
+tax-ui:
+   version: 3.0
