@@ -7,4 +7,4 @@ external:
      service:
        enabled: false
 tax-ui:
-   version: 4.0
+   version: 3.0
